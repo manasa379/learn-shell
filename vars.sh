@@ -2,8 +2,8 @@
 # syntax to declare variable
 
 #var_name = data
-a = 1
-x = 10
+a = 10
+x = 100
 y =  true
 name = Devops
 
