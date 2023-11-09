@@ -8,5 +8,5 @@ y =  true
 name = Devops
 
 # How to access variable
-echo value of x = $a
+echo value of a = $a
 
